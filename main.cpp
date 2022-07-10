@@ -73,4 +73,5 @@ int main(){
     int_t2 += int_t2;
     int_t1 -= int_t1;
     std::cout << "5: " << int5.to_cstr(str, 16) << '\n' << "t2: " << int_t2.to_cstr(str, 10) << '\n' << "t1: " << int_t1.to_cstr(str, 16) << '\n';
+
 }
